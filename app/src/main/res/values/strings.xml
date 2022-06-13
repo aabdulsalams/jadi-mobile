@@ -1,0 +1,82 @@
+<resources>
+    <string name="app_name">JaDi</string>
+
+    <string name="title_dialog_error">Oops something wrong</string>
+    <string name="error_empty_name">Please insert your name</string>
+    <string name="error_empty_email">Please insert your email</string>
+    <string name="error_invalid_email">The email is invalid</string>
+    <string name="error_empty_password">Please insert your password</string>
+    <string name="label_is_havent_account">Don\'t have account ?</string>
+    <string name="label_is_have_account">Already have account ?</string>
+    <string name="action_login">Login</string>
+    <string name="label_email">Email</string>
+    <string name="label_password">Password</string>
+    <string name="label_welcome">Hello, Story Writer</string>
+    <string name="label_login_welcome_desc">Please login so you can enjoy the full experience</string>
+    <string name="action_to_register">Register here</string>
+    <string name="label_register_welcome_desc">Register yourself to be a Story Writer</string>
+    <string name="action_to_login">Login here</string>
+    <string name="label_lorem_ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque lobortis nunc nec sodales consectetur. Sed eget auctor quam. Nulla facilisi. Etiam vitae nulla sed arcu varius tempus. Nullam ac diam ante. Donec condimentum cursus accumsan. Ut sit amet felis rutrum, posuere lorem sed</string>
+    <string name="label_greeting_user">Hello, %1$s!</string>
+    <string name="message_failed_take_picture">Upload failed</string>
+    <string name="message_unknown_state">Unknown State</string>
+    <string name="message_not_permitted">Permission not granted</string>
+    <string name="action_logout">Logout</string>
+    <string name="message_logout_confirm">Are you sure want logout ?</string>
+    <string name="action_yes">Logout</string>
+    <string name="action_cancel">Cancel</string>
+    <string name="message_incorrect_auth">Email or password incorrect</string>
+    <string name="action_camera">Camera</string>
+    <string name="action_gallery">Gallery</string>
+    <string name="title_new_story">Add New Story</string>
+    <string name="title_detail_story">Detail Story</string>
+    <string name="title_choose_a_picture">Choose a picture</string>
+    <string name="message_success_upload">Upload berhasil</string>
+    <string name="title_upload_info">Upload Info</string>
+    <string name="action_upload_story">Upload Story</string>
+    <string name="hint_description">Story Description</string>
+    <string name="menu_setting">Setting</string>
+    <string name="appwidget_text">Story Image Banner</string>
+    <string name="empty_text">No Data</string>
+    <string name="title_profile">Profile</string>
+    <string name="error_password_more_6">Password must more than 6 character</string>
+    <string name="label_nama">Name</string>
+    <string name="title_message">Information</string>
+    <string name="message_register_success">Register Success</string>
+    <string name="message_pick_image">Pick an image</string>
+    <string name="error_desc_empty">Description can\'t empty</string>
+    
+    <string name="BLB_desc">Penyakit Bacterial Leaf Blight atau dalam Bahasa Indonesia disebut sebagai
+        Hawar Daun Bakteri adalah salah satu jenis penyakit utama yang pada tanaman padi yang disebabkan
+        oleh bakteri Xanthomonas compestris pv oryzae.</string>
+    <string name="BLB_control">Saat ini, belum tersedia produk alami yang tersedia secara komersial dalam
+        mengendalikan hawar daun padi, namun cara alternatif yang direkomendasikan adalah dengan menggunakan
+        produk dengan bahan dasar tembaga seperti tembaga oksiklorida atau tembaga sulfat yang membantu meringankan
+        serta mengurangi gejala namun tidak menyembuhkan penyakit. Perlu diperhatikan untuk pengunaan jenis antibiotik
+        memiliki pembatasan takar yang berbeda, untuk itu anda perlu mencari dan memahami langkah-langkah yang sesuai
+        terkait pengunaannya.</string>
+    <string name="BLB_cegah">•	Gunakan varietas padi yang tahan penyakit, ini adalah cara yang paling efisien dan dapat diandalkan untuk mengendalikan penyakit.
+•	Pastikan drainase di lahan dan persemaian dalam kondisi baik untuk menghindari kontaminasi.
+•	Atur dosis pemberian pupuk nitrogen secara tidak berlebihan dan lakukan secara bertahap selama musim tanam.
+</string>
+    
+    <string name="BS_desc">Panyakit Brown Spot atau yang dikenal dengan Bercak Coklat adalah salah satu jenis penyakit berbahaya pada tanaman padi yang disebabkan oleh jamur Cochliobolus Miyabeanus.</string>
+    <string name="BS_control">Benih yang akan ditanam dianjurkan untuk direndam terlebih dulu ke dalam air panas dengan kisaran suhu 53 - 54°C selama 10 hingga 12 menit untuk menghindari adanya kontaminasi dari tanaman padi yang sudah terinfeksi. Penyemprotan dengan fungisida seperti iprodione, propikonazoi, azoksistrobin, dan trifloksistrobin dapat membantu mencegah dan mengurangi dampak penyebaran infeksi dari penyakit ini. Apabila tanaman padi telah terinfeksi, penggunaan fungisida sistemik seperti score, anvil, folicur, Nativo, opus, dan indar dapat membantu.</string>
+    <string name="BS_cegah">•	Untuk tanah yang rendah silikon. tambahkan arang kalsium silikat sebelum penanaman.
+•	Tanam benih dengan varietas yang memiliki tingkat ketahanan lebih tinggi jika tersedia.
+•	Perhatikan jarak tanam agar tidak terlalu rapat atau gunakan sistem tanam legowo
+•	Pastikan pasokan unsur hara seimbang dan pantau unsur hara tanah secara teratur.
+•	Jangan gunakan urea yang berlebih dan imbangi dengan unsur kalium pada tanah
+</string>
+    
+    <string name="LS_desc">Penyakit Leaf Smut atau yang dikenal dengan nama daun smut merupakan salah satu penyakit yang ditemukan pada tanaman padi yang disebabkan oleh jamur Entyloma oryzae. </string>
+    <string name="LS_control">Pada penyakit leaf smut, adanya batasan dalam pemberian kadar nitrogen yang digunakan perlu diperhatikan dimana kadar nitrogen yang tinggi cenderung akan meningkatkan resiko infeksi. Apabila ditemukan padi yang telah terinfeksi, segera hilangkan atau pangkas padi tersebut agar tidak terjadi penyebaran lebih luas. Menanam padi dengan varietas yang lebih unggul serta membersihkan sisa padi di tanah pada setiap akhir musim tanam dapat mengurangi resiko infeksi yang terjadi akibat penyakit ini.</string>
+    <string name="LS_cegah">•	Ganti pupuk dengan kadar yang lebih seimbang dan berikan pada saat infeksi belum mengalami tingkat keparahan yang tinggi
+•	Tanaman padi yang sehat akan memiliki ketahanan lebih baik akibat leaf smut, pemberian fungisida bisa mejadi solusi apabila ditemukan gejala akibat infeksi penyakit lain
+•	Pastikan untuk menjaga kebersihan saluran air dan kondisi tanah dikarenakan infeksi dapat disebabkan oleh lingkungan yang telah terkontaminasi sebelumnya
+</string>
+
+    <string name="app_widget_description">Image Banner</string>
+    <string name="message_detection">Tekan gambar untuk memulai deteksi penyakit daun padi</string>
+    <string name="error_desc_same">Gambar belum terdeteksi</string>
+</resources>
